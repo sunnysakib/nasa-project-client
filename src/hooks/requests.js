@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:8000/'
+const API_URL = 'https://nasa-server-3u23.onrender.com'
 
 async function httpGetPlanets() {
   // TODO: Once API is ready.
